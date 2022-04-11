@@ -12,5 +12,5 @@ while True:
 	x = get("https://api.codebazan.ir/jok/").text
 	cp = f" Xp Post Gozar :) \n @post_xp"
 	jok = f"{x}  \n {cp} \n "
-	bot.sendMessage("c0BEU9H0d6ae45463ab0009b5ad50ce8", jok)
+	bot.sendMessage("g0BcYEq00e3179342e80c96d465db2d8", jok)
 	print('sended')
