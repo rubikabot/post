@@ -3,7 +3,7 @@ from re import findall
 from rubika.client import Bot
 import time
 
-bot = Bot("AppName", auth="sduqfyoqcdicecmhrcrrivqusijxqiot")
+bot = Bot("bot", auth="sduqfyoqcdicecmhrcrrivqusijxqiot")
 
 
 while True:
