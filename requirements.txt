@@ -6,5 +6,4 @@ arabic-reshaper
 python-bidi
 mutagen
 gtts
-time
-re
+rubika
