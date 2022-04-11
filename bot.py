@@ -8,9 +8,9 @@ bot = Bot("AppName", auth="sduqfyoqcdicecmhrcrrivqusijxqiot")
 
 while True:
 	
-	time.sleep(5)
+	time.sleep(60)
 	x = get("https://api.codebazan.ir/jok/").text
-	cp = f" Xp Post Gozar :) \n @post_xp"
+	cp = f" BOT BLACK STAR:) \n @bot_jok"
 	jok = f"{x}  \n {cp} \n "
-	bot.sendMessage("g0BcYEq00e3179342e80c96d465db2d8", jok)
+	bot.sendMessage("c0BEYfz038812475acf56417765cd08d", jok)
 	print('sended')
